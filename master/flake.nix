@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-tsundoku-master.flake = false;
+  inputs.src-tsundoku-master.ref   = "refs/heads/master";
   inputs.src-tsundoku-master.owner = "FedericoCeratto";
-  inputs.src-tsundoku-master.ref   = "master";
   inputs.src-tsundoku-master.repo  = "tsundoku";
   inputs.src-tsundoku-master.type  = "github";
   
