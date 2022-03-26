@@ -11,6 +11,7 @@
   inputs.src-tsundoku-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-tsundoku-v0_1_0.owner = "FedericoCeratto";
   inputs.src-tsundoku-v0_1_0.repo  = "tsundoku";
+  inputs.src-tsundoku-v0_1_0.dir   = "";
   inputs.src-tsundoku-v0_1_0.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
