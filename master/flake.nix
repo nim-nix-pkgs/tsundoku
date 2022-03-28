@@ -11,7 +11,6 @@
   inputs.src-tsundoku-master.ref   = "refs/heads/master";
   inputs.src-tsundoku-master.owner = "FedericoCeratto";
   inputs.src-tsundoku-master.repo  = "tsundoku";
-  inputs.src-tsundoku-master.dir   = "";
   inputs.src-tsundoku-master.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
